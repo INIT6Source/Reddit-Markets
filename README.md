@@ -1,2 +1,2 @@
-# Subreddit-Markets
+# Reddit Markets
 Trading Subreddits
