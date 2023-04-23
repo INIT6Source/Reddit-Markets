@@ -5,7 +5,7 @@ List of Reddit Markets & Trading Subreddits. Please be aware of scams and the ru
 Please open a PR to submit a server - [SERVERNAME] & (URL) - #channel, category, server
 
 # UNITED STATES
-- [r/hardwareswap](https://www.reddit.com/r/hardwareswap/) - Consumer Electronics, Computers, Video Game Consoles, etc
+- [r/Hardwareswap](https://www.reddit.com/r/hardwareswap/) - Consumer Electronics, Computers, Video Game Consoles, etc
 - [r/HomelabSale](https://www.reddit.com/r/homelabsales/) - Enterprise Electronics, Network equipment, 3D-Printers, etc
 - [r/Mechmarket](https://www.reddit.com/r/mechmarket) - Mechanical Keyboards
 - [r/AVexchange](https://www.reddit.com/r/AVexchange) - Audio & Video Gear, Projectors, Receivers, Headphones, etc
