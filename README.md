@@ -2,7 +2,7 @@
 
 List of Reddit Markets & Trading Subreddits. Please be aware of scams and the rules for each subreddit. 
 
-Please open a PR to submit a server - [SERVERNAME] & (URL) - #channel, category, server
+Please open a PR to submit a market - [MARKET NAME](URL) - Description
 
 # UNITED STATES
 - [r/Hardwareswap](https://www.reddit.com/r/hardwareswap/) - Consumer Electronics, Computers, Video Game Consoles, etc
